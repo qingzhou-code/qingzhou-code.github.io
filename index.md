@@ -8,7 +8,7 @@
       <p><b>地址：临沂市兰山区双岭路中段临沂大学</b></p>
     </td>
     <td width="25%">
-      <img src="/person.png" width="100%">      % 插入证件照代码
+      <img src="/person.png" width="100%">      
     </td>
   </tr>
 </table>
